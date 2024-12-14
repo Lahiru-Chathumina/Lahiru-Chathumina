@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lahiru Bandara</h1>
-<h3 align="center">Penetration Tester|| Software engineer</h3>
+<h3 align="center">Penetration Tester|| Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiru-chathumina&label=Profile%20views&color=0e75b6&style=flat" alt="lahiru-chathumina" /> </p>
 
